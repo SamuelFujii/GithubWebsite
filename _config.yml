@@ -1,4 +1,7 @@
 name: samuelfujii's site
 title: null
+remote_theme: jekyll/minima
+plugins:
+ - jekyll-remote-theme
 google_analytics:
   id: "G-VWVHLZZDJ3"

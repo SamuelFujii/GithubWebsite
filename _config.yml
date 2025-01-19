@@ -2,8 +2,7 @@ name: samuelfujii's site
 
 title: null
 
-google_analytics:
-  id: "G-VWVHLZZDJ3"
+google_analytics: "G-VWVHLZZDJ3"
 
 # https://github.com/jekyll/minima/issues/561#issuecomment-748793956
 remote_theme: jekyll/minima

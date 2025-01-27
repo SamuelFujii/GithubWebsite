@@ -8,9 +8,9 @@
     {% include head-custom.html %}
     {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
     {% include analytics.html %}
+    {% include x-frame-bypass.html %}
     {% endif %}{% endraw %}
     {% raw %}
-    {% include x-frame-bypass.html %}
     {% endraw %}
 {% seo %}
 
